@@ -1,0 +1,17 @@
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\security\CustomBasicAuthenticationEntryPoint.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\entities\Person.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\controllers\PersonController.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\repositories\LocationRepository.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\controllers\LocationController.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\controllers\BillController.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\repositories\PersonRepository.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\entities\Bill.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\entities\Location.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\security\WebSecurityConfig.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\entities\User.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\repositories\BillRepository.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\security\AuthenticatedUser.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\security\MyUserDetailsService.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\repositories\UserRepository.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\controllers\UserController.java
+C:\Users\Máté\Documents\Fontos\AlkFejl\Backend\split_bill\src\main\java\hu\elte\split_bill\SplitBillApplication.java
